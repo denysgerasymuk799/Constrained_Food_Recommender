@@ -1,3 +1,4 @@
+haversine
 ml_metrics
 plotly
 folium
